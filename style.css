@@ -1,13 +1,13 @@
 html {
-    background-color: #00539f;
+    background-color: #45209c;
     font-size: 10px;
-    font-family: "Libertinus Keyboard", system-ui;
+    font-family: "Arial", sans-serif;
 }
 
 body {
     width: 600px;
     margin: 0 auto;
-    background-color: #ff9500;
+    background-color: #1823b3;
     padding: 0 20px 20px 20px;
     border: 5px solid black;
 }
@@ -17,7 +17,7 @@ h1 {
     text-align: center;
     margin: 0;
     padding: 20px 0;
-    color: #00539f;
+    color: #45209c;
     text-shadow: 3px 3px 1px black;
 }
 
